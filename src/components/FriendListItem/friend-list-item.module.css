@@ -1,0 +1,31 @@
+.item {
+  display: flex;
+  width: 100%;
+  gap: 20px;
+  border: 3px solid lightblue;
+  border-radius: 5px;
+}
+
+.green {
+  margin: 15px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: green;
+}
+.red {
+  margin: 15px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+}
+.avatar {
+  padding-top: 5px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 500;
+  padding: 10px;
+}

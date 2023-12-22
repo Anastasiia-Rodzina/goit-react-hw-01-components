@@ -1,0 +1,17 @@
+.transaction_history {
+  font-family: sans-serif;
+  font-size: 15px;
+  border-collapse: collapse;
+  text-align: center;
+  border: 3px solid lightblue;
+}
+.transaction_history th,
+.transaction_history td:first-child {
+  background: deepskyblue;
+  color: white;
+  padding: 10px 15px;
+}
+.transaction_history th,
+.transaction_history td {
+  border: 3px solid lightblue;
+}
